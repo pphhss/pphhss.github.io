@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+# 박현선 포트폴리오
 
-You can use the [editor on GitHub](https://github.com/pphhss/pphhss.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 기술
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 언어
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### C/C++
+##### Java
+##### Javascript
+##### Python3
+##### 안드로이드
 
-```markdown
-Syntax highlighted code block
+### 데이터베이스
 
-# Header 1
-## Header 2
-### Header 3
+##### MySQL
+##### MongoDB
 
-- Bulleted
-- List
+### 프레임워크
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+##### NodeJS 
 
-[Link](url) and ![Image](src)
-```
+### 운영체제
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### 리눅스
+##### 윈도우
 
-### Jekyll Themes
+### 기타
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pphhss/pphhss.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### Git
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 프로젝트
+
+### 1. Club Collector
+ 
+동아리 소통/공유 시스템
+
+##### 기술 스택
+
+- NodeJS
+- MySQL
+- HTML / CSS / Javascript
+
+##### 맡은 부분
+
+Backend 부분을 전부 맡았으며, 대부분 MySQL 쿼리문을 만드는 데 프로젝트 대부분 시간을 소모했습니다. 처음으로 NodeJS 사용해서 만든 프로젝트입니다.
+
+##### 사진 및 동영상
+동영상 첨부
+[![Video Label](https://i.ytimg.com/vi/vHOHErQ6mBA/hqdefault.jpg)](https://youtu.be/vHOHErQ6mBA) 
+
+### 2. Care Me
+ 
+동아리 소통/공유 시스템
+
+##### 기술 스택
+
+- NodeJS
+- MySQL
+- HTML / CSS / Javascript
+- Android
+
+##### 맡은 부분
+
+Backend 부분을 전부 맡았으며, 대부분 MySQL 쿼리문을 만드는 데 프로젝트 대부분 시간을 소모했습니다. 처음으로 NodeJS 사용해서 만든 프로젝트입니다.
+
+##### 사진 및 동영상
+동영상 첨부
+[![Video Label](https://i.ytimg.com/vi/vHOHErQ6mBA/hqdefault.jpg)](https://youtu.be/vHOHErQ6mBA) 
