@@ -23,6 +23,7 @@
 ### 1. Club Collector
  
 동아리 소통/공유 시스템
+<https://github.com/ahn7253/HCIproject>
 
 ##### 프로젝트 설명
 
@@ -49,6 +50,8 @@ Backend 부분을 전부 맡았으며, MySQL 쿼리문을 만드는 데 프로�
 ### 2. Care Me
  
 유기동물 어플(봉사,유기동물 검색,유기동물 신고) / 유기동물 보호소 관리 프로그램
+<https://github.com/pphhss/ZANGDOL>
+<https://github.com/pphhss/ZANGDOL-ANDROID>
 
 ##### 프로젝트 설명
 
