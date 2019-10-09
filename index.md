@@ -50,7 +50,7 @@ Backend 부분을 전부 맡았으며, MySQL 쿼리문을 만드는 데 프로�
 
 ##### 사진 및 동영상
 
-동영상 첨부
+동영상 첨부 (<https://youtu.be/vHOHErQ6mBA>)
 
 [![Video Label](https://i.ytimg.com/vi/vHOHErQ6mBA/hqdefault.jpg)](https://youtu.be/vHOHErQ6mBA) 
 
