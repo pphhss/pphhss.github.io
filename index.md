@@ -40,9 +40,7 @@
 
 ##### 기술 스택
 
-- NodeJS
-- MySQL
-- HTML / CSS / Javascript
+![Alt text](/img/cc_stack.png "CC 기술스택")
 
 ##### 맡은 부분
 
@@ -68,10 +66,8 @@ Backend 부분을 전부 맡았으며, MySQL 쿼리문을 만드는 데 프로�
 
 ##### 기술 스택
 
-- NodeJS
-- MySQL
-- HTML / CSS / Javascript
-- Android
+![Alt text](/img/cr_stack.png "케어미 기술스택")
+
 
 ##### 맡은 부분
 
